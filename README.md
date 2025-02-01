@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on nothing at the moment but hopefully a game in the future.
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: male
+- ⚡ Fun fact: idk
 
 <!---
 MirajSOL/MirajSOL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
