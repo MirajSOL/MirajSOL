@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Miraj AKA MirajSOL. I'm an aspiring software developer. <br>I'm currently working on improving myself and my skills through the development of projects.<br>I'm currently learning advanced python, LuaU, mern stack and more.<br>Fun fact: I am 19 years old
+Hi! I'm Miraj AKA MirajSOL. I'm an aspiring software developer. <br>I'm currently working on improving myself and my skills through the development of projects.<br>I'm currently learning advanced python, LuaU, mern stack and more.
 
 
 ## 🌐 Socials:
