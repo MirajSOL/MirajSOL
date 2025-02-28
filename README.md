@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Miraj AKA MirajSOL. I'm an aspiring software developer. <br>I'm currently working on improving myself and my skills through the development of projects.<br>I'm currently learning advanced python, LuaU, mern stack and more.<br>Important note: My tech stack may look very impressive but I am, by no means, a master when it comes to all of these, I have just worked with them before, I am mainly at a beginner/intermediate level at most with my main skill lying with Python and Lua.
+Hi! I'm Miraj AKA MirajSOL. I'm an aspiring software developer. <br>I'm currently working on improving myself and my skills through the development of projects.<br>I'm currently learning advanced python, LuaU, mern stack and more.<br>**Important note:** <ins>My tech stack may look very impressive but I am, by no means, a master when it comes to all of these, I have just worked with them before, I am mainly at a beginner/intermediate level at most with my main skill lying with Python and Lua.</ins>
 
 
 ## 🌐 Socials:
