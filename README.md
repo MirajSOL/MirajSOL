@@ -11,10 +11,7 @@ Working on projects at the moment whilst continuing my studies and increasing my
 ![](https://github-readme-stats.vercel.app/api?username=MirajSOL&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MirajSOL&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MirajSOL&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MirajSOL&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MirajSOL&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MirajSOL&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
