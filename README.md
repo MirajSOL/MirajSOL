@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working on projects at the moment whilst continuing my studies and increasing my knowledge.
+Developing on Roblox. 
 
 
 ## 🌐 Socials:
